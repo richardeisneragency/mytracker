@@ -7,9 +7,6 @@
   "rewrites": [
     { "source": "/(.*)", "destination": "/" }
   ],
-  "env": {
-    "VITE_GOOGLE_CLIENT_ID": "@google_client_id"
-  },
   "git": {
     "deploymentEnabled": {
       "main": true,
